@@ -1,0 +1,47 @@
+.our-brand{
+    display:flex;
+    width: 85%;
+    margin: 30px auto;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 15px;
+}
+.brand-text{
+    width: 40%;
+}
+.brand-img{
+    height: 700px;
+    width: 3000px;
+    box-sizing: border-box;
+    }
+.brand-img img{
+    width: 700px;
+    height: 100%;
+    object-fit:contain;
+}
+.brand-text h3{
+    color: #181111;
+    font-weight: 700;
+    font-size: 2rem;
+    margin: 0px;
+}
+.brand-text h4{
+    color: #333333;
+    font-weight: 400;
+    font-size: 2.6rem;
+    margin: 0px;
+}
+.brand-text p{
+    padding-bottom: 1px;
+    font-size: 1rem;
+    color: #5d5b5b;
+    letter-spacing: 0.5px;
+}
+.brand-text font{
+    color: #f14573;
+
+}
+.u{
+    font-size: 3rem;
+    text-align: center;
+}

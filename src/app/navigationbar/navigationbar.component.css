@@ -1,0 +1,22 @@
+ .list{
+    text-align: centre;
+    justify-content: space-around;
+    
+}
+.list a{
+   font-weight:bold;
+    float: left;
+    text-decoration: none;
+    font-size: 22px;
+    color: rgb(50, 8, 8);
+    transition: 0.4s;
+    text-align:center;
+    padding-right:100px ;
+padding-left: 100px;
+
+
+  
+}
+.list a:hover{
+    color: rgb(201, 63, 63);
+}

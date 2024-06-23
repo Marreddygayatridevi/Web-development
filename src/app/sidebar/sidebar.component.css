@@ -1,0 +1,39 @@
+.blist{
+    text-align: centre;
+    justify-content: space-around;
+    
+}
+.blist a{
+   font-weight:bold;
+    float: left;
+    text-decoration:none;
+    font-size: 22px;
+    color: rgb(50, 8, 8);
+    transition: 0.4s;
+    text-align:center;
+    padding-right:50px ;
+padding-left: 70px;
+padding-bottom: 41px;
+
+}
+.blist a:hover{
+    color: rgb(201, 63, 63);
+}
+.v {
+    width:"30" ;
+    height:"270";
+}
+.my{
+    padding-top: 160px;
+    padding-left: 35px;
+   
+}
+.alert {
+    background-color: rgb(214, 170, 178);
+    color: black;
+}
+.alert img {
+    padding-left: 10px;
+    width:290px;
+    height: 280px; 
+}
